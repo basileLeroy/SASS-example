@@ -1,0 +1,9 @@
+@use 'base';
+@use 'style';
+
+body {
+    color: base.$text-red;
+    h1 {
+        color: base.$text-red
+    }
+}
