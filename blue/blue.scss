@@ -1,0 +1,9 @@
+@use "../base" as *;
+@use "../style";
+
+body {
+    color: $text-blue;
+    h1, h2 {
+        color: $text-blue;
+    }
+}

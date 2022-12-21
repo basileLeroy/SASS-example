@@ -83,5 +83,8 @@ body .warning {
 }
 
 body {
-  color: blue;
-}/*# sourceMappingURL=blue.css.map */
+  color: red;
+}
+body h1, body h2 {
+  color: red;
+}/*# sourceMappingURL=red.css.map */
